@@ -6,6 +6,6 @@ I’m currently working on my personal website. The Frontend is being build with
 I’m currently learning Data and Network Security and AI in my University courses.
 ___
 ## Skills
-|Python|JavaScript|C|C++|Java|R|HTML|CSS|SQL
-|:---:|:--:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Python|JavaScript|C|C++|Java|R|HTML|CSS|SQL|OpenGL|Vuejs|Nodejs|
+|:---:|:--:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
