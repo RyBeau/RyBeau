@@ -8,7 +8,7 @@ ___
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <image  src="https://github-readme-stats.vercel.app/api?username=rybeau&show_icons=true&theme=tokyonight&hide=stars,issues,contribs"/>
+    <image  src="https://github-readme-stats.vercel.app/api?username=rybeau&show_icons=true&theme=tokyonight&hide=stars,contribs"/>
   </a>
 </p>
 
