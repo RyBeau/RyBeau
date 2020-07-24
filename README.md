@@ -12,12 +12,6 @@ ___
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=rybeau&theme=tokyonight&hide=cmake,makefile"/>
-  </a>
-</p>
-
 ___
 ## Skills
 |Python|JavaScript|C|C++|Java|R|HTML|CSS|SQL|OpenGL|Vuejs|Nodejs|
