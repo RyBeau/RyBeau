@@ -5,6 +5,20 @@ I’m currently working on my personal website. The Frontend is being build with
 
 Please feel free to browse through my projects, I had a lot of fun making them.
 ___
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <image  src="https://github-readme-stats.vercel.app/api?username=rybeau&show_icons=true&theme=tokyonight&hide=stars,issues,contribs"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=rybeau&theme=tokyonight&hide=cmake,makefile"/>
+  </a>
+</p>
+
+___
 ## Skills
 |Python|JavaScript|C|C++|Java|R|HTML|CSS|SQL|OpenGL|Vuejs|Nodejs|
 |:---:|:--:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
