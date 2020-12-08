@@ -14,7 +14,7 @@ ___
 
 ___
 ## Skills
-|Python|JavaScript|C|C++|Java|R|HTML|CSS|SQL|OpenGL|Vuejs|Nodejs|
+|Python|JavaScript|C|C++|Java|R|HTML|CSS|SQL|OpenGL|Vuejs|Angular|Nodejs|
 |:---:|:--:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ## Courses
