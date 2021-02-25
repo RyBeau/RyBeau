@@ -18,6 +18,17 @@ ___
 |:---:|:--:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ## Courses
+
+#### 4rd Year
+* COSC421 Advanced Topics in Security
+* COSC428 Computer Vision
+* COSC441 Wireless Networking Systems and Performance
+* SENG440 Topics in Mobile Computing
+* COSC401 Machine Learning
+* COSC422 Advanced Computer Graphics
+* COSC424 Secure Software
+* COSC440 Deep Learning
+
 #### 3rd Year
 * COSC362 Data and Network Security
 * COSC363 Computer Graphics
