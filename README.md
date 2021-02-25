@@ -1,7 +1,5 @@
 ## Welcome to my GitHub Profile
-#### I'm Ryan Beaumont, a 3rd Year Undergraduate Computer Science Student at the University of Canterbury. Here you'll find many of the projects I have completed during my time at university as well as a few I did for fun.
-
-I’m currently working on my personal website. The Frontend is being build with Vuejs using bootstrap to style most elements initially so that it can be constructed quickly to test with the Backend. In terms of the backend I intend the site to allow people to create accounts and interact with blog posts on the site leaving likes and comments. Nodejs is being used to create the Backend API.
+#### I'm Ryan Beaumont, a 4th Year Computer Science Student at the University of Canterbury. Here you'll find many of the projects I have completed during my time at university as well as a few I did for fun.
 
 Please feel free to browse through my projects, I had a lot of fun making them.
 ___
@@ -58,3 +56,5 @@ ___
 * ACCT102 Accounting and Financial Information
 * ACCT103 Accounting and Taxation: An Introduction
 * SCIE101 Science, Society and Me
+___
+![Visitor Count](https://profile-counter.glitch.me/rybeau/count.svg)
