@@ -52,7 +52,7 @@ ___
 * COSC122 Introduction to Computer Science
 * MATH102 Mathematics 1A
 * MATH120 Discrete Mathematics
-* STAT101 Statistics 1 	15.00
+* STAT101 Statistics 1
 * ACCT102 Accounting and Financial Information
 * ACCT103 Accounting and Taxation: An Introduction
 * SCIE101 Science, Society and Me
