@@ -12,8 +12,8 @@ ___
 
 ___
 ## Skills
-|Python|JavaScript|C|C++|Java|R|HTML|CSS|SQL|OpenGL|Vuejs|Angular|Nodejs|Kotlin|
-|:---:|:--:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Python|TensorFlow|JavaScript|C|C++|Java|R|HTML|CSS|SQL|OpenGL|Vuejs|Angular|Nodejs|Kotlin|
+|:---:|:--:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ## Courses
 
